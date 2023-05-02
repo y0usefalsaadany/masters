@@ -47,7 +47,7 @@ body {
   background-image: url(https://media.defense.gov/2015/Jan/30/2001016944/2000/2000/0/150113-Z-ZU385-001.JPG);
   background-size: cover;
   /* opacity: 0.5; */
-  filter: brightness(50%);
+  filter: brightness(70%);
 }
 
 .sub_page .hero_area {
